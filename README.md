@@ -22,24 +22,26 @@ XY represents volunteer number.
 ABC represents symbol number.
 VZ represents trial number of the corresponding volunteer.
 These numbers may be of 1, 2 or 3 digits.
-Trial numbers may be discontinuous.
+Trial numbers may be discontinuous.  
 
-User	Number of Valid images
-1	        863
-2	      	237
-3		      251
-4	      	252
-5	      	261
-6	      	246
-7		      241
-8	      	256
-9		      240
-10		    239
-11	      217
-12		    258
-13	      231
-14	      219
-15		    230
-16	      259
-17	      261
-18	      280
+  User	Number of Valid images  
+  1&nbsp;&nbsp;&nbsp;&nbsp;863  
+  2&nbsp;&nbsp;&nbsp;&nbsp;237  
+  3&nbsp;&nbsp;&nbsp;&nbsp;251  
+  4&nbsp;&nbsp;&nbsp;&nbsp;252  
+  5&nbsp;&nbsp;&nbsp;&nbsp;261  
+  6&nbsp;&nbsp;&nbsp;&nbsp;246  
+  7&nbsp;&nbsp;&nbsp;&nbsp;241  
+  8&nbsp;&nbsp;&nbsp;&nbsp;256  
+  9&nbsp;&nbsp;&nbsp;&nbsp;240  
+  10&nbsp;&nbsp;&nbsp;239  
+  11&nbsp;&nbsp;&nbsp;217  
+  12&nbsp;&nbsp;&nbsp;258  
+  13&nbsp;&nbsp;&nbsp;231  
+  14&nbsp;&nbsp;&nbsp;219  
+  15&nbsp;&nbsp;&nbsp;230  
+  16&nbsp;&nbsp;&nbsp;259  
+  17&nbsp;&nbsp;&nbsp;261  
+  18&nbsp;&nbsp;&nbsp;280  
+  
+  Symbols' meanings are provided in the vocabulary folder according to their number.
