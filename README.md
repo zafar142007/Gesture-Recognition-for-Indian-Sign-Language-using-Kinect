@@ -14,3 +14,32 @@ This dataset consists of depth and RGB images (taken by Kinect XBox 360) of 140 
 Related video: https://www.youtube.com/watch?v=2oqD-_UCHxQ
 
 This work was a part of my Master's thesis at Indian Institute of Technology, Jodhpur (2013).
+
+Files have the name format:
+'USER-XY-ABC-VZ.png' or 'USER-XY-ABC-VZ.txt'
+XY, ABC, VZ are numbers. 
+XY represents volunteer number.
+ABC represents symbol number.
+VZ represents trial number of the corresponding volunteer.
+These numbers may be of 1, 2 or 3 digits.
+Trial numbers may be discontinuous.
+
+User	Number of Valid images
+1	        863
+2	      	237
+3		      251
+4	      	252
+5	      	261
+6	      	246
+7		      241
+8	      	256
+9		      240
+10		    239
+11	      217
+12		    258
+13	      231
+14	      219
+15		    230
+16	      259
+17	      261
+18	      280
