@@ -7,7 +7,7 @@ https://drive.google.com/folderview?id=0B6iDOaIw70SceUFWQ0NoREVIUTA&usp=sharing
 
 Please cite the following paper if you use this dataset in your research.
 
-_http://link.springer.com/article/10.1007%2Fs12046-013-0146-0_
+_http://link.springer.com/article/10.1007%2Fs12046-013-0146-0_ (you can read it at _http://www.ias.ac.in/article/fulltext/sadh/041/02/0161-0182_)
 
 This dataset consists of depth and RGB images (taken by Kinect XBox 360) of 140 sign language gestures of the Indian Sign Language taken from 18 subjects. There are a total of 5041 images each of resolution 640x480 in the depth and the RGB subsets. Each depth image has a corresponding RGB image.
 
