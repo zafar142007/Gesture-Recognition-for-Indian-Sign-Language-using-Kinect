@@ -3,7 +3,7 @@ Indian Sign Language static gesture depth dataset
 -------------------------------------------------
 Download the dataset from the following link.
 
-https://drive.google.com/folderview?id=0B6iDOaIw70SceUFWQ0NoREVIUTA&usp=sharing
+https://drive.google.com/drive/folders/0B6iDOaIw70SceUFWQ0NoREVIUTA?usp=sharing
 
 Please cite the following paper if you use this dataset in your research.
 
